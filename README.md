@@ -4,7 +4,9 @@ He also loves learning the magic behind penetration testing and Cybersecurity at
 python enthusiast...
 
 I'm open for engagements and colaboration.
-Contact: info@coderush.com.ng
+Contact:{ 
+info@coderush.com.ng
+LinkenIn: Victory (cZ) Nathaniel
 <!---
 cyber103/cyber103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
